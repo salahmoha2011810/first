@@ -1,8 +1,5 @@
-
-var user name = prompt("Enter your user name")
-
-var age= prompt("Enter your age")
-
-var email = prompt("Enter your email")
-
-var password = prompt("Enter your password")
+var email = prompt ("Please Enter your email")
+var password = prompt ("Please Enter your password")
+document.write(email)	
+document.write("<br>")
+document.write(password)	
